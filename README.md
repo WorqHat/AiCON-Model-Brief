@@ -13,6 +13,10 @@ This is version 1.0.1 of the model.
 **Model type**
 AiCON is an Auto-Regressive large language model based on the Transformer neural network architecture that comes in a size of 142 Billion Parameters or 2.81T SentencePiece Tokens.
 
+**Detailed Documentation**
+https://sagnikghosh.dev/articles/AiCon-Future-of-AI-Driven-Content-Generation-with-WorqBot/
+https://sagnikghosh.dev/articles/future-of-content-generation-with-WorqBot/
+
 **Where to send questions or comments about the model**
 Questions and comments about AiCON can be sent via email to [worqbot@worqhat.com](mailto:worqbot@worqhat.com)  or [support@worqhat.com](mailto:support@worqhat.com)
 
